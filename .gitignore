@@ -6,21 +6,3 @@ build
 *.lock
 .DS_Store
 TODO.md
-
-# Transpiled modules
-/classification
-/clustering
-/features
-/hash
-/helpers
-/inflectors
-/keyers
-/keyword-extraction
-/metrics
-/parsers
-/phonetics
-/regexp
-/stats
-/stemmers
-/tag
-/tokenizers
